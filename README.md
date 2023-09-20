@@ -1,1 +1,1 @@
-# CS613_Assignmen2_nltk.tokenize
+# nltk.tokenize's Assignment 2 CS613
